@@ -1,5 +1,6 @@
 Student Management System
-Overview
+
+
 This project is a Student Management System web application that allows users to add, view, update, and delete student records efficiently. It is built using Spring Boot, Hibernate, and MySQL, following the MVC architecture.
 
 Features
